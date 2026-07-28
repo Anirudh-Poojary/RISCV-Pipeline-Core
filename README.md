@@ -346,8 +346,8 @@ This project demonstrates:
 
 ---
 
-# My Project
 
-## Screenshot
+
+## TOP Architecture
 
 <img width="100%" alt="TOP Architecture" src="https://github.com/user-attachments/assets/3d244cfa-2cc4-4733-a0fe-56e1fe11790f">
