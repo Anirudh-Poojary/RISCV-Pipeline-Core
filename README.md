@@ -350,4 +350,4 @@ This project demonstrates:
 
 ## Screenshot
 
-<img width="562" alt="Screenshot" src="https://github.com/user-attachments/assets/3d244cfa-2cc4-4733-a0fe-56e1fe11790f">
+<img width="100%" alt="TOP Architecture" src="https://github.com/user-attachments/assets/3d244cfa-2cc4-4733-a0fe-56e1fe11790f">
