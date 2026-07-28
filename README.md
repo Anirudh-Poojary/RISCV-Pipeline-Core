@@ -346,15 +346,8 @@ This project demonstrates:
 
 ---
 
-## Author
+# My Project
 
-**Anirudh Poojary**
+## Screenshot
 
-Electronics and Communication Engineering
-
-Interests:
-- VLSI Design
-- ASIC Design
-- Digital Design
-- Computer Architecture
-- RISC-V Processor Design
+<img width="562" alt="Screenshot" src="https://github.com/user-attachments/assets/3d244cfa-2cc4-4733-a0fe-56e1fe11790f">
